@@ -7,3 +7,6 @@
 # it is what reproduces the same set (`npx skills install`).
 .agents/
 .claude/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
